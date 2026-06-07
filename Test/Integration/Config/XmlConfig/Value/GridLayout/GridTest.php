@@ -34,8 +34,8 @@ class GridTest extends TestCase
     public function getTestGridBlockArguments(): array
     {
         return [
-            ['netherlands', 'city', 12, 6],
-            ['netherlands', 'country_id', 12, 12],
+            ['poland', 'city', 12, 6],
+            ['poland', 'country_id', 12, 12],
         ];
     }
 
