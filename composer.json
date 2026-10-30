@@ -23,8 +23,5 @@
         "psr-4": {
             "LokiCheckout\\Pl\\": ""
         }
-    },
-    "extra": {
-        "label": "Poland Settings"
     }
 }
